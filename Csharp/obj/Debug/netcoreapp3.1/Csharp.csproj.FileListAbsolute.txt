@@ -1,0 +1,13 @@
+D:\ThreeLang\Csharp\bin\Debug\netcoreapp3.1\Csharp.exe
+D:\ThreeLang\Csharp\bin\Debug\netcoreapp3.1\Csharp.deps.json
+D:\ThreeLang\Csharp\bin\Debug\netcoreapp3.1\Csharp.runtimeconfig.json
+D:\ThreeLang\Csharp\bin\Debug\netcoreapp3.1\Csharp.runtimeconfig.dev.json
+D:\ThreeLang\Csharp\bin\Debug\netcoreapp3.1\Csharp.dll
+D:\ThreeLang\Csharp\bin\Debug\netcoreapp3.1\Csharp.pdb
+D:\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.csprojAssemblyReference.cache
+D:\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.AssemblyInfoInputs.cache
+D:\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.AssemblyInfo.cs
+D:\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.csproj.CoreCompileInputs.cache
+D:\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.dll
+D:\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.pdb
+D:\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.genruntimeconfig.cache
