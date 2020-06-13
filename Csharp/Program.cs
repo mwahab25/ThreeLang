@@ -24,7 +24,8 @@ namespace Csharp
             bool defaultflag = true;
 
             System.Console.WriteLine($"id={id},title ={title},symbol={symbol},defaultflag={defaultflag}");
-
+            
+            #region Decision
             //Decision - if 
             if(peektime > 10)
             {
@@ -63,6 +64,8 @@ namespace Csharp
                     //write code
                 }
             }
+
+            #endregion
 
             //Arrays
             int[] arr1=new int[3];
@@ -143,10 +146,7 @@ namespace Csharp
 
             //call Base class methods, properties
             homePage.name="name property";
-            homePage.Init();
-
-            
-            
+            homePage.Init();  
         }
     }
 }
