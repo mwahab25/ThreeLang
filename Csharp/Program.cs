@@ -23,6 +23,8 @@ namespace Csharp
             //Data types-boolean
             bool defaultflag = true;
 
+            System.Console.WriteLine($"id={id},title ={title},symbol={symbol},defaultflag={defaultflag}");
+
             //Decision - if 
             if(peektime > 10)
             {
