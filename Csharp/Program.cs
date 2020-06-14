@@ -23,7 +23,9 @@ namespace Csharp
             //Data types-boolean
             bool defaultflag = true;
 
-            System.Console.WriteLine($"id={id},title ={title},symbol={symbol},defaultflag={defaultflag}");
+            const double PI=3.14;
+
+            System.Console.WriteLine($"id={id},title ={title},symbol={symbol},defaultflag={defaultflag},PI={PI}");
             
             #region Decision
             //Decision - if 
@@ -79,6 +81,9 @@ namespace Csharp
             List<int> list=new List<int>();
             list.Add(1);
             list.Add(3);
+            
+            //get list item
+            int g =list[0];
 
             //Collection -Dictionary
             Dictionary<int,string> dict=new Dictionary<int, string>();
@@ -147,6 +152,9 @@ namespace Csharp
             //call Base class methods, properties
             homePage.name="name property";
             homePage.Init();  
+
+            Pages pages=new HomePage();
+            
         }
     }
 }
