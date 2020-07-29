@@ -17,7 +17,7 @@ namespace Csharp
             //Data types-string
             string title="Check valid login";
             //Data types-character
-            char symbol='A';
+            char symbol='B';
             //Data types-double
             double peektime = 36.34;
             //Data types-boolean
