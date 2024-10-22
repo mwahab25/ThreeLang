@@ -1,5 +1,5 @@
 # ThreeLang
-Coding three programming languages (C#,Java and Python) in Visual Studio Code
+Simple Coding three programming languages (C#,Java and Python) in Visual Studio Code
 
 Visual Studio Code
 Download& Install Visual studio code: https://code.visualstudio.com/
