@@ -11,3 +11,17 @@ D:\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.csproj.CoreCompileInputs.cach
 D:\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.dll
 D:\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.pdb
 D:\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.genruntimeconfig.cache
+D:\mwahabapps\ThreeLang\Csharp\bin\Debug\netcoreapp3.1\Csharp.exe
+D:\mwahabapps\ThreeLang\Csharp\bin\Debug\netcoreapp3.1\Csharp.deps.json
+D:\mwahabapps\ThreeLang\Csharp\bin\Debug\netcoreapp3.1\Csharp.runtimeconfig.json
+D:\mwahabapps\ThreeLang\Csharp\bin\Debug\netcoreapp3.1\Csharp.runtimeconfig.dev.json
+D:\mwahabapps\ThreeLang\Csharp\bin\Debug\netcoreapp3.1\Csharp.dll
+D:\mwahabapps\ThreeLang\Csharp\bin\Debug\netcoreapp3.1\Csharp.pdb
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.AssemblyInfoInputs.cache
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.AssemblyInfo.cs
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.csproj.CoreCompileInputs.cache
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.sourcelink.json
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.dll
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.pdb
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\netcoreapp3.1\Csharp.genruntimeconfig.cache

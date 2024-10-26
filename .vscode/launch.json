@@ -6,6 +6,13 @@
    "configurations": [
     {
         "type": "java",
+        "name": "Program",
+        "request": "launch",
+        "mainClass": "Java.Program",
+        "projectName": "ThreeLang_fb04d8da"
+    },
+    {
+        "type": "java",
         "name": "CodeLens (Launch) - Program",
         "request": "launch",
         "mainClass": "Java.Program",

@@ -1,0 +1,15 @@
+D:\mwahabapps\ThreeLang\Csharp\bin\Debug\net8.0\Csharp.exe
+D:\mwahabapps\ThreeLang\Csharp\bin\Debug\net8.0\Csharp.deps.json
+D:\mwahabapps\ThreeLang\Csharp\bin\Debug\net8.0\Csharp.runtimeconfig.json
+D:\mwahabapps\ThreeLang\Csharp\bin\Debug\net8.0\Csharp.dll
+D:\mwahabapps\ThreeLang\Csharp\bin\Debug\net8.0\Csharp.pdb
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\net8.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\net8.0\Csharp.AssemblyInfoInputs.cache
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\net8.0\Csharp.AssemblyInfo.cs
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\net8.0\Csharp.csproj.CoreCompileInputs.cache
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\net8.0\Csharp.sourcelink.json
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\net8.0\Csharp.dll
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\net8.0\refint\Csharp.dll
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\net8.0\Csharp.pdb
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\net8.0\Csharp.genruntimeconfig.cache
+D:\mwahabapps\ThreeLang\Csharp\obj\Debug\net8.0\ref\Csharp.dll
